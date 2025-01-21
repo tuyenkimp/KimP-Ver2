@@ -1,7 +1,7 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/main.txt"))()
 
 
-local Window = Library:CreateWindow('Văn Thành IOS / Ver_2')
+local Window = Library:CreateWindow('KimP Gaming / Ver_2')
 
 local Tab = {
     Tab_1 = Window:addTab('#Home'),
